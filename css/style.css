@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #b3cdfa;
   font-family: Arial, Helvetica, sans-serif;
 }
 select {
@@ -24,11 +24,12 @@ h2 {
 footer {
   text-align: center;
   font-size: 18px;
+  color: rgb(0, 0, 0);
 }
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: white;
+  background: rgb(192, 240, 222);
   padding: 30px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
